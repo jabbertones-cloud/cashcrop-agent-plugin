@@ -1,0 +1,14 @@
+{
+  "name": "cashcrop",
+  "version": "0.1.0",
+  "description": "PRELAUNCH: Analyze authorized Dutchie POS data for licensed dispensary sales, inventory and margins.",
+  "author": {
+    "name": "SMAT Designs"
+  },
+  "repository": "https://github.com/jabbertones-cloud/cashcrop-agent-plugin",
+  "keywords": [
+    "cashcrop",
+    "mcp",
+    "agent"
+  ]
+}

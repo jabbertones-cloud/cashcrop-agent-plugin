@@ -1,0 +1,10 @@
+{
+  "name": "cashcrop",
+  "version": "0.1.0",
+  "description": "PRELAUNCH: Analyze authorized Dutchie POS data for licensed dispensary sales, inventory and margins.",
+  "mcpServers": {
+    "cashcrop": {
+      "httpUrl": "https://cashcrop.smatdesigns.com/mcp"
+    }
+  }
+}

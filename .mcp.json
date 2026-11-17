@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cashcrop": {
+      "type": "http",
+      "url": "https://cashcrop.smatdesigns.com/mcp",
+      "note": "Prelaunch/integration test only. PRELAUNCH ONLY until authorized OAuth, tenant isolation and marketplace content eligibility are certified. Only use dispensary-owned, expressly authorized POS data for li"
+    }
+  }
+}

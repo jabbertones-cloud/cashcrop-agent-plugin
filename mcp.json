@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cashcrop": {
+      "type": "http",
+      "url": "https://cashcrop.smatdesigns.com/mcp"
+    }
+  }
+}
